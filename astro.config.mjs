@@ -7,8 +7,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://SHENNIX.github.io',
-  base: '',
+  site: 'https://kendallsn.github.io',
+  base: '/KendallSalazarNavarro/',
   output: 'static',
   vite: {
     resolve: {
